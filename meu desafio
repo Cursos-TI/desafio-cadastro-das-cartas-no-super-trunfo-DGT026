@@ -1,11 +1,5 @@
 #include <stdio.h>
 
-int main(){
-    printf("Desafio nível novato \n");
-    printf("Novo commit\n");
-}
-#include <stdio.h>
-
 int main() {
     char estado1[10], estado2[10];
     char codigo1[5], codigo2[5];
@@ -80,4 +74,3 @@ int main() {
 
     return 0;
 }
-
