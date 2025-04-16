@@ -2,6 +2,7 @@
 
 int main(){
     printf("Desafio nível novato \n");
+    printf("Novo commit\n");
 }
 
 // Desafio Super Trunfo - Países
